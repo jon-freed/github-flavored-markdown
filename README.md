@@ -13,7 +13,7 @@ When trying to understand Markdown, GFM, and [workarounds](https://en.wikipedia.
 
 ### Prefixed Headings, aka Numbered Headings
 
-Outline headings with a decimal or alphanumeric [prefix scheme](https://en.wikipedia.org/wiki/Outline_(list)) are desirable.  The GFM Spec itself uses a decimal scheme.  However, GFM does not do numbered headings in plain Markdown.  You have to do a [workaround](PrefixedHeadingsInGFM.md) where you mix plain Markdown with HTML, and even then GitHub's style sheets can cause difficulties.
+Outline headings with a decimal or alphanumeric [prefix scheme](https://en.wikipedia.org/wiki/Outline_(list)) are desirable.  The GFM Spec itself uses a decimal scheme.  However, GFM does not do automatically numbered headings in plain Markdown.  You have to do a [workaround](PrefixedHeadingsInGFM.md) where you mix plain Markdown with HTML, and even then GitHub's style sheets can cause difficulties.
 
 ### _Your identified discrepancy and workaround here!_
 
